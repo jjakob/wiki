@@ -1,3 +1,9 @@
+WARNING: I don't recommend doing this, to validate DNSSEC locally you must run a local DNS forwarding service.
+You can keep using systemd-resolved or any alternative, but don't point resolv.conf directly to a remote DNS server.
+By doing this you're not validating DNSSEC, which is a security issue.
+
+https://www.sourceware.org/glibc/wiki/DNSSEC
+
 ```
 systemctl disable systemd-resolved.service
 systemctl stop systemd-resolved.service
