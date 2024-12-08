@@ -10,6 +10,7 @@
 #### Hardware
 
 - [How to fix LSI SAS BIOS freezing when booting](Hardware/How-to-fix-LSI-SAS-BIOS-freezing-when-booting.md)
+- [Cross-flashing LSI RAID cards](Hardware/Cross-flashing-LSI-RAID-cards.md)
 
 ***
 
