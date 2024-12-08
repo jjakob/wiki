@@ -4,12 +4,12 @@
 
 #### GNU/Linux
 
-- [Migrating an unencrypted PureOS/Debian install to fully encrypted](/jjakob/wiki/Migrating-an-unencrypted-PureOS-Debian-install-to-fully-encrypted.md)
-- [Disable systemd-resolved, replace with resolvconf (works with dhclient)](/jjakob/wiki/Disable-systemd-resolved,-replace-with-resolvconf-(works-with-dhclient).md)
+- [Migrating an unencrypted PureOS/Debian install to fully encrypted](Migrating-an-unencrypted-PureOS-Debian-install-to-fully-encrypted.md)
+- [Disable systemd-resolved, replace with resolvconf (works with dhclient)](Disable-systemd-resolved,-replace-with-resolvconf-\(works-with-dhclient\).md)
 
 #### Hardware
 
-- [How to fix LSI SAS BIOS freezing when booting](/jjakob/wiki/wiki/Hardware/How-to-fix-LSI-SAS-BIOS-freezing-when-booting.md)
+- [How to fix LSI SAS BIOS freezing when booting](Hardware/How-to-fix-LSI-SAS-BIOS-freezing-when-booting.md)
 
 ***
 
