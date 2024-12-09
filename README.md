@@ -11,6 +11,7 @@
 
 - [How to fix LSI SAS BIOS freezing when booting](Hardware/How-to-fix-LSI-SAS-BIOS-freezing-when-booting.md)
 - [Cross-flashing LSI RAID cards](Hardware/Cross-flashing-LSI-RAID-cards.md)
+- [Upgrading firmware on Emulex OCe10100 (IBM 49Y4201 49Y4202)](Hardware/Upgrading-firmware-on-Emulex-OCe10100-IBM-49Y4201-49Y4202.md)
 
 ***
 
