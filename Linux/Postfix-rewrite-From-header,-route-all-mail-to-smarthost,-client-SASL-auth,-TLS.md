@@ -88,6 +88,7 @@ smtp_tls_loglevel = 1
 #uncomment if your system only has the ca-bundle file and not individual symlinks or certs in /etc/ssl/certs (also comment smtp_tls_CApath)
 #smtp_tls_CAfile = /etc/ssl/certs/ca-bundle.trust.crt
 smtp_tls_CApath = /etc/ssl/certs/
+smtp_tls_session_cache_database = btree:${data_directory}/smtp_scache
 ```
 
 If you also want this server to relay mail in the local network, listening on SMTP port 25, also enable TLS in smtpd:
@@ -97,7 +98,6 @@ smtpd_tls_cert_file=/etc/ssl/certs/ssl-cert-snakeoil.pem
 smtpd_tls_key_file=/etc/ssl/private/ssl-cert-snakeoil.key
 smtpd_use_tls=yes
 smtpd_tls_session_cache_database = btree:${data_directory}/smtpd_scache
-smtp_tls_session_cache_database = btree:${data_directory}/smtp_scache
 ```
 Different OS's might have different paths to the self-signed certificate. Of course, if you have a trusted certificate for this host, configure postfix to use it!
 
