@@ -6,6 +6,7 @@
 
 - [Migrating an unencrypted PureOS/Debian install to fully encrypted](Linux/Migrating-an-unencrypted-PureOS-Debian-install-to-fully-encrypted.md)
 - [Disable systemd-resolved, replace with resolvconf (works with dhclient)](Linux/Disable-systemd-resolved,-replace-with-resolvconf-\(works-with-dhclient\).md)
+- [Postfix rewrite From header, route all mail to smarthost, client SASL auth, TLS](Linux/Postfix-rewrite-From-header,-route-all-mail-to-smarthost,-client-SASL-auth,-TLS.md)
 
 #### Hardware
 
