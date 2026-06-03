@@ -13,11 +13,12 @@
 - [How to fix LSI SAS BIOS freezing when booting](Hardware/How-to-fix-LSI-SAS-BIOS-freezing-when-booting.md)
 - [Cross-flashing LSI RAID cards](Hardware/Cross-flashing-LSI-RAID-cards.md)
 - [Upgrading firmware on Emulex OCe10100 (IBM 49Y4201 49Y4202)](Hardware/Upgrading-firmware-on-Emulex-OCe10100-IBM-49Y4201-49Y4202.md)
+- [Thinkpad T420 killed by decomposing foam corrosion](Hardware/Thinkpad-T420-killed-by-decomposing-foam-corrosion.md)
 
 ***
 
 ```
-    Copyright (C) 2019-2024 Jernej Jakob <jernej.jakob@gmail.com>.
+    Copyright (C) 2019-2026 Jernej Jakob <jernej.jakob@gmail.com>.
     Permission is granted to copy, distribute and/or modify this document
     under the terms of the GNU Free Documentation License, Version 1.3
     or any later version published by the Free Software Foundation;
