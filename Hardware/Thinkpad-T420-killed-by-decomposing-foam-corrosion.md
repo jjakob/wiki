@@ -8,7 +8,7 @@ The foam also corroded the pins of the EC chip and components near it, but the c
 
 There was also corrosion on the SATA HDD connector pins which was cleaned with a fiberglass pencil and alcohol.
 
-Pictures of the motherboard with annotations and component locations:
+## Pictures
 
 [T420 motherboard, top, annotated](t420_mobo_top_annotated.jpg)
 
@@ -25,3 +25,19 @@ Original pictures:
 [T420 motherboard, bottom](t420_mobo_bottom.jpg)
 
 [T420 bottom cover](t420_bottom_cover.jpg)
+
+## Repair pictures
+
+[Bodged Q9](t420_mobo_repair_1.jpg)
+
+[Removed Q34 and scraped off solder mask to fit SO-8 replacement](t420_mobo_repair_2.jpg)
+
+[Fitted replacement Q34 and F12](t420_mobo_repair_3.jpg)
+
+## Flashing Libreboot
+
+[Flashing setup with Raspberry Pi 3B](t420_flashing_1.jpg)
+
+The wires are loosely held in place in the vias in the motherboard by the pressure of the wires only, no soldering required.
+
+[Closeup of wires connected to motherboard](t420_flashing_2.jpg)
